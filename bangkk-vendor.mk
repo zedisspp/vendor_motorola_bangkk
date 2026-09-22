@@ -3493,7 +3493,6 @@ PRODUCT_PACKAGES += \
     libcom.qti.chinodeutils \
     libets_teeclient_v3 \
     libjpege \
-    liblowlight_ai_portrait.arcsoft \
     libmctfengine_stub \
     libmmcamera_bestats \
     libmmcamera_cac3 \
